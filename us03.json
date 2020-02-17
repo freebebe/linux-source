@@ -35,7 +35,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "uk01.gnode.xyz",
+            "address": "us03.gnode.xyz",
             "port": 443,
             "users": [
               {
