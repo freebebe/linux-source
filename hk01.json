@@ -39,9 +39,8 @@
             "port": 10086,
             "users": [
               {
-                "id": "54858DEA-F2CA-DD7B-294F-95ECC44426F4",
+                "id": "10BE2B6E-C7EB-FFE2-A93D-04C82EF4AA0A",
                 "alterId": 0,
-                "email": "t@t.tt",
                 "security": "auto"
               }
             ]
