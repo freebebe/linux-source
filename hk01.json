@@ -35,11 +35,11 @@
       "settings": {
         "vnext": [
           {
-            "address": "hk01.gnode.xyz",
+            "address": "tw01.gnode.xyz",
             "port": 10086,
             "users": [
               {
-                "id": "10BE2B6E-C7EB-FFE2-A93D-04C82EF4AA0A",
+                "id": "4FD0B973-AD4C-6B75-7CFF-E7BFD8E50355",
                 "alterId": 0,
                 "security": "auto"
               }

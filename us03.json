@@ -39,9 +39,8 @@
             "port": 443,
             "users": [
               {
-                "id": "54858DEA-F2CA-DD7B-294F-95ECC44426F4",
+                "id": "4FD0B973-AD4C-6B75-7CFF-E7BFD8E50355",
                 "alterId": 0,
-                "email": "t@t.tt",
                 "security": "auto"
               }
             ]
