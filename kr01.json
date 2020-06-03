@@ -36,10 +36,10 @@
         "vnext": [
           {
             "address": "kr01.gnode.xyz",
-            "port": 10010,
+            "port": 443,
             "users": [
               {
-                "id": "BF1B1EE9-459F-5127-3E64-70AD57954F43",
+                "id": "3D4DD1FA-02F8-AEDB-B483-4194B816D0BB",
                 "alterId": 0,
                 "security": "auto"
               }
@@ -50,12 +50,19 @@
         "response": null
       },
       "streamSettings": {
-        "network": "tcp",
-        "security": null,
-        "tlsSettings": null,
+        "network": "ws",
+        "security": "tls",
+        "tlsSettings": {
+          "allowInsecure": true,
+          "serverName": null
+        },
         "tcpSettings": null,
         "kcpSettings": null,
-        "wsSettings": null,
+        "wsSettings": {
+          "connectionReuse": true,
+          "path": "/ray",
+          "headers": null
+        },
         "httpSettings": null,
         "quicSettings": null
       },
